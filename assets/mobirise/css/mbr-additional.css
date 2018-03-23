@@ -1867,7 +1867,7 @@ body {
 .cid-qN1sDAENb1 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background63.jpg");
+  background-image: url("../../../assets/images/background64.jpg");
 }
 .cid-qN1sDAENb1 h4 {
   font-weight: 500;
@@ -2209,6 +2209,22 @@ body {
 }
 .cid-qN81QkZUIh H4 {
   text-align: center;
+}
+.cid-qN83dPnMpS {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-qN83dPnMpS .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+}
+.cid-qN83dPnMpS .mbr-author-name {
+  font-weight: bold;
+}
+.cid-qN83dPnMpS .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
 }
 .cid-qN1QzTV8fs {
   padding-top: 90px;
